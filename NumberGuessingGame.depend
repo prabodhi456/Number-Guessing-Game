@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1714558706 source:c:\users\asus\desktop\c++ internship\numberguessinggame\1sttask.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1714558522 source:c:\users\asus\desktop\c++ internship\numberguessinggame\main.cpp
+
